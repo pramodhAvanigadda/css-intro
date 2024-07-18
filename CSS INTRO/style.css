@@ -1,0 +1,153 @@
+#superBikes{
+    background-color: rgb(36, 36, 52);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-align: center;
+    border: 3px solid rgb(240, 140, 25);
+    border-radius: 60px;
+    text-shadow: 8px 8px 5px rgb(139, 216, 246);
+    box-shadow: 10px 10px 10px orange;
+}
+#BMW{
+    background-color: black;
+    color: bisque;
+    width: 420px;
+    text-align: center;
+    border-radius:40px;
+}
+
+#bmwlogo{
+    display: inline-block;
+    width: 420px;
+}
+#kawasakilogo{
+    width: 420px;
+}
+#kawasaki{
+    background-color: black;
+    color: bisque;
+    font-size: 1.5rem;
+    overflow:auto; 
+    width: 420px;
+    text-align: center;
+    border-radius:40px;
+}   
+#BMWS1000RR{
+    width:620px;
+    height: 460px;
+}
+#BMWDesc{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:870px;
+    overflow: auto;
+    text-align: justify;
+    }
+#BMWR1300GS{
+    width: 500px;
+    height: 540px;
+}
+#BMWR1300GSDesc{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:900px;
+    overflow: auto;
+    text-align: justify;
+
+}
+#BMWG310RR{
+    width:500px;
+    height: 300px;
+}
+#BMWG31ORRDes{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:800px;
+    overflow: auto;
+    text-align: justify;
+
+}
+#NINJAH2R{
+    width: 600px;
+    height: 600px;
+}
+#KAWASAKIZX10R{
+    width:600px;
+    height: 600px;
+}
+#KAWASAKIZ900{
+    width: 600px;
+    height: 600px;
+}
+#BMWSeries{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 40px;
+}
+#BMWS1000RRHeading{
+    text-align: center;
+    background-color: black;
+    width: 600px;
+    color: aliceblue;
+    border-radius: 40px;
+}
+#BMWR1300GSHeading{
+    text-align: center;
+    background-color: black;
+    width: 600px;
+    color: aliceblue;
+    border-radius: 40px;  
+}
+#BMWG310RRHeading{
+    text-align: center;
+    background-color: black;
+    width: 500px;
+    color: aliceblue;
+    border-radius: 40px;   
+}
+#BMWBody{
+    
+    background-color: rgb(211, 211, 41);
+    
+}
+#H2RDesc{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:800px;
+    overflow: auto;
+    text-align: justify;
+
+}
+#ZX10RDesc{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:800px;
+    overflow: auto;
+    text-align: justify;
+}
+#Z900Desc{
+    background-color: rgb(12, 12, 9);
+    color: beige;
+    display: inline-block;
+    width:800px;
+    overflow: auto;
+    text-align: justify;
+
+}
+#kawasakiBody{
+    background-color: blanchedalmond    ;
+}
+#kawasakiTitle{
+    text-align: center;
+    background-color: black;
+    width: 1500px;
+    color: aliceblue;
+    border-radius: 40px;   
+}
+}
